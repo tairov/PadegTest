@@ -2,6 +2,6 @@
 
 namespace Service;
 
-class CaseServiceException extends Exception {
+class CaseServiceException extends \Exception {
     
 }
